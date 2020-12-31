@@ -1,0 +1,41 @@
+h1 {
+  color: #120e43;
+  font-size: 40px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+input {
+  width: 160px;
+  height: 25px;
+  border: 2px solid #120e43;
+  margin-right: 25px;
+}
+select {
+  width: 50px;
+  height: 28px;
+  border: 2px solid #120e43;
+  margin-right: 25px;
+  font-size: 20px;
+  font-weight: bold;
+}
+option {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+p {
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #120e43;
+}
+
+button {
+  padding: 10px 30px;
+  font-size: 20px;
+  border-radius: 25px;
+  color: white;
+  background-color: #120e43;
+  border: none;
+}
